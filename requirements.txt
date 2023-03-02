@@ -1,0 +1,6 @@
+streamlit
+PIL
+base64
+pandas
+underthesea
+gensim
