@@ -1,5 +1,5 @@
 streamlit
-PIL
+PIL==9.4.0
 base64
 pandas
 underthesea
